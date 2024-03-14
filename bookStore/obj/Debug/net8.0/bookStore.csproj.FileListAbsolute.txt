@@ -1,0 +1,14 @@
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\bin\Debug\net8.0\bookStore.exe
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\bin\Debug\net8.0\bookStore.deps.json
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\bin\Debug\net8.0\bookStore.runtimeconfig.json
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\bin\Debug\net8.0\bookStore.dll
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\bin\Debug\net8.0\bookStore.pdb
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.AssemblyInfo.cs
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.dll
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\refint\bookStore.dll
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.pdb
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\bookStore.genruntimeconfig.cache
+C:\Users\MeAmC\OneDrive\Desktop\app\bookStore\bookStore\obj\Debug\net8.0\ref\bookStore.dll
