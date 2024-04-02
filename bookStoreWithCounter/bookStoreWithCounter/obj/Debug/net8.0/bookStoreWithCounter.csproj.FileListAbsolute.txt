@@ -1,0 +1,14 @@
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.AssemblyInfoInputs.cache
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.AssemblyInfo.cs
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.csproj.CoreCompileInputs.cache
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\bin\Debug\net8.0\bookStoreWithCounter.exe
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\bin\Debug\net8.0\bookStoreWithCounter.deps.json
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\bin\Debug\net8.0\bookStoreWithCounter.runtimeconfig.json
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\bin\Debug\net8.0\bookStoreWithCounter.dll
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\bin\Debug\net8.0\bookStoreWithCounter.pdb
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.dll
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\refint\bookStoreWithCounter.dll
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.pdb
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\bookStoreWithCounter.genruntimeconfig.cache
+C:\Users\MeAmC\Desktop\CIT195\bookStoreWithCounter\bookStoreWithCounter\obj\Debug\net8.0\ref\bookStoreWithCounter.dll
